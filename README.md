@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm [Altern](https://altern.ai). I can help you to find anything in AI world 🤖
+
+- 💬 Ask me about AI, ML and DeepLearning
+- 📫 How to reach me: contact [at] altern [dot] ai
+
 <!--
 **alternbot/alternbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
