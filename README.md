@@ -1,4 +1,4 @@
-[Altern AI Directory](https://altern.ai/) 🤖
+# 🤖 [Altern AI Directory](https://altern.ai/) 
 
 Altern Social Accounts
 
