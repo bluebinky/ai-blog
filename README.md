@@ -1,4 +1,4 @@
-# 🤖 [Altern](https://altern.ai/) 
+# 🤖 [AI Insights Review](https://blog.altern.ai/) 
 
 
 ### Altern Social Accounts:
